@@ -90,14 +90,14 @@ h3 {
 	float: left;
   	width: 100%;
   	height: 10px;
-	background: url("pw_maze_white.png") repeat-x;
+	background: url("img/pw_maze_white.png") repeat-x;
 }
 
 .lower-container-border {
 	float: left;
   	width: 100%;
   	height: 10px;
-	background: url("pw_maze_white.png") repeat-x;
+	background: url("img/pw_maze_white.png") repeat-x;
 }
 
 /*-------------  The Basics END  --------------*/
@@ -184,7 +184,7 @@ h3 {
 
 #nav-buttons{
 	float: left;
-    background: url("menubuttons.png") no-repeat;
+    background: url("img/menubuttons.png") no-repeat;
     width: 320px;
     height: 76px;
     margin: 0;
@@ -222,19 +222,19 @@ h3 {
 }
 
 #nav-buttons-01 a:hover{
-	background:url("menubuttons.png") -240px -76px no-repeat;
+	background:url("img/menubuttons.png") -240px -76px no-repeat;
 }
 
 #nav-buttons-02 a:hover{
-	background:url("menubuttons.png") -160px -76px no-repeat;
+	background:url("img/menubuttons.png") -160px -76px no-repeat;
 }
 
 #nav-buttons-03 a:hover{
-	background:url("menubuttons.png") -80px -76px no-repeat;
+	background:url("img/menubuttons.png") -80px -76px no-repeat;
 }
 
 #nav-buttons-04 a:hover{
-	background:url("menubuttons.png") 0px -76px no-repeat;
+	background:url("img/menubuttons.png") 0px -76px no-repeat;
 }
 
 .navbar {
@@ -275,7 +275,7 @@ h3 {
 	margin-right: auto;
 	margin-top: 10px;
 	float: left;
-	background-image:url('profilepic.jpg');
+	background-image:url('img/profilepic.jpg');
 	background-position: center;
 	width: 4em;
 	height: 4em; 
@@ -297,7 +297,7 @@ h3 {
 	float: left;
 	width: 50px;
 	height: 50px;
-	background-image:url('profilepic.jpg');
+	background-image:url('img/profilepic.jpg');
 	border: 0;
 
 }
@@ -381,12 +381,12 @@ h3 {
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.4), 0 0 30px rgba(0,0,0,.075);
   background: #39548b; /* Old browsers */
-  background-image: url('schematics.png'), -moz-linear-gradient(45deg,  #fa8f57 0%, #39548b 100%); /* FF3.6+ */
-  background-image: url('schematics.png'). -webkit-gradient(linear, left bottom, right top, color-stop(0%,#fa8f57), color-stop(100%,#39548b)); /* Chrome,Safari4+ */
-  background-image: url('schematics.png'), -webkit-linear-gradient(45deg,  #fa8f57 0%,#39548b 100%); /* Chrome10+,Safari5.1+ */
-  background-image: url('schematics.png'), -o-linear-gradient(45deg,  #fa8f57 0%,#39548b 100%); /* Opera 11.10+ */
-  background-image: url('schematics.png'), -ms-linear-gradient(45deg,  #fa8f57 0%,#39548b 100%); /* IE10+ */
-  background-image: url('schematics.png'), linear-gradient(45deg,  #fa8f57 0%,#39548b 100%); /* W3C */
+  background-image: url('img/schematics.png'), -moz-linear-gradient(45deg,  #fa8f57 0%, #39548b 100%); /* FF3.6+ */
+  background-image: url('img/schematics.png'). -webkit-gradient(linear, left bottom, right top, color-stop(0%,#fa8f57), color-stop(100%,#39548b)); /* Chrome,Safari4+ */
+  background-image: url('img/schematics.png'), -webkit-linear-gradient(45deg,  #fa8f57 0%,#39548b 100%); /* Chrome10+,Safari5.1+ */
+  background-image: url('img/schematics.png'), -o-linear-gradient(45deg,  #fa8f57 0%,#39548b 100%); /* Opera 11.10+ */
+  background-image: url('img/schematics.png'), -ms-linear-gradient(45deg,  #fa8f57 0%,#39548b 100%); /* IE10+ */
+  background-image: url('img/schematics.png'), linear-gradient(45deg,  #fa8f57 0%,#39548b 100%); /* W3C */
   background-position:right bottom;
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fa8f57', endColorstr='#39548b',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
   -webkit-box-shadow: inset 0 3px 7px rgba(0,0,0,.2), inset 0 -3px 7px rgba(0,0,0,.2);
@@ -487,7 +487,7 @@ h3 {
 }
 
 .aboutme:after {
-	background-image: url('pw_maze_white_transparent.png');
+	background-image: url('img/pw_maze_white_transparent.png');
  	background-repeat: repeat;
 }
 
