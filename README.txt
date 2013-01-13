@@ -1,1 +1,1 @@
-Hello
+This repo is for personal use only. Created solely to manage and track the changes of my latest personal site.
