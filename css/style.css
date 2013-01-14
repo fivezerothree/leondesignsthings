@@ -348,7 +348,7 @@ h3 {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   	font-size: 12px;
   	line-height: 6px;
-  	color: rgb(57,84,139);
+  	color: #000;
    	margin-top: 22px;
    	margin-left: 10px;
    	text-align: left;
@@ -429,7 +429,7 @@ h3 {
 
 .circle-small {
   position: relative;
-  margin: auto; 
+  margin: auto;
   width: 10em; height: 10em; 
     -webkit-border-radius: 5.0em;
        -moz-border-radius: 5.0em;
@@ -664,4 +664,9 @@ h3 {
   width: 465px;
   float: right;
   margin-top: 20px;
+}
+
+#contact {
+  position: absolute;
+  top: 3707px;
 }
