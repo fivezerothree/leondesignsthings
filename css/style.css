@@ -363,6 +363,21 @@ h3 {
 
 }
 
+#aboutme {
+  position: absolute;
+  top: 917px;
+}
+
+#work {
+  position: absolute;
+  top: 2520px;
+}
+
+#contact {
+  position: absolute;
+  top: 3767px;
+}
+
 /*-----------  NAVIGATION NENU END  -------------*/
 
 
@@ -465,10 +480,7 @@ h3 {
 }
 /*-------------  ABOUT ME SECTION  --------------*/
 
-#aboutme {
-	position: absolute;
-	top: 897px;
-}
+
 
 .aboutme-h2 {
 	color: #80a2ea !important;
@@ -569,10 +581,7 @@ h3 {
 
 /*-------------  WORK SECTION  --------------*/
 
-#work {
-	position: absolute;
-	top: 2460px;
-}
+
 
 /*-------------  WORK SECTION END  --------------*/
 
@@ -666,7 +675,3 @@ h3 {
   margin-top: 20px;
 }
 
-#contact {
-  position: absolute;
-  top: 3707px;
-}
